@@ -19,6 +19,7 @@
 		"Emmet",
 		"ERB Autocomplete",
 		"Laravel Blade Highlighter",
+		"LiveReload",
 		"Material Theme",
 		"Package Control",
 		"Ruby on Rails snippets",
@@ -31,6 +32,7 @@
 	],
 	"repositories":
 	[
+		"https://raw.github.com/Grafikart/ST3-LiveReload/master/package.json",
 		"https://raw.github.com/Grafikart/ST3-LiveReload/master/package.json"
 	]
 }
