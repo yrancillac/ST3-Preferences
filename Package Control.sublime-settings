@@ -8,6 +8,7 @@
 		"AdvancedNewFile",
 		"Agila Theme",
 		"Alignment",
+		"apiDoc Autocompletion",
 		"Autoprefixer",
 		"Better CoffeeScript",
 		"Blade Snippets",
@@ -32,6 +33,7 @@
 	],
 	"repositories":
 	[
+		"https://raw.github.com/Grafikart/ST3-LiveReload/master/package.json",
 		"https://raw.github.com/Grafikart/ST3-LiveReload/master/package.json",
 		"https://raw.github.com/Grafikart/ST3-LiveReload/master/package.json"
 	]

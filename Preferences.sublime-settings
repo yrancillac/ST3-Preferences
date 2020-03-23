@@ -25,7 +25,10 @@
 		"*.class",
 		"*.psd",
 		"*.db",
-		"*.sublime-workspace"
+		"*.sublime-workspace",
+		"ckfinder.js",
+		"tablefilter.js",
+		"tablefilter.js.map"
 	],
 	"folder_exclude_patterns":
 	[
@@ -36,14 +39,18 @@
 		".sass-cache",
 		"tmp",
 		"OLD",
-		"Vendor",
 		"node_modules",
 		"Documentation",
 		"docs",
-		"database"
+		"database",
+		"vendor",
+		"file_manager/skins",
+		"file_manager/help",
+		"file_manager/plugins",
+		"document/group_division"
 	],
 	"font_face": "Operator Mono",
-	"font_size": 11,
+	"font_size": 9,
 	"ignored_packages":
 	[
 		"BufferScroll",
